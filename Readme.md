@@ -12,7 +12,8 @@ This project helps build a decentralized Q&A forum where valuable contributions 
 
 ## Contract Address
 0x45bfff31297bb8df210eb357cc73278d0ec92ab8
-![image](https://github.com/user-attachments/assets/803e9bea-f5eb-45b6-b836-2ce2d1687d9f)
+![image](https://github.com/user-attachments/assets/78a41b7a-0df9-449c-9ccf-2543227558d3)
+
 
 ## Project Vision
 The vision of this project is to create an incentivized ecosystem where users are motivated to contribute knowledge by answering questions in decentralized forums. We aim to:
